@@ -18,6 +18,11 @@ git clone https://github.com/Darkboy-creater/PHISINTG.git
 cd PHISINGTG
 
 ls
+
+
+pip install requests 
+
+
 python Phisingbot.py
 
 
