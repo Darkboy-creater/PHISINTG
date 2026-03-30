@@ -15,7 +15,7 @@ pkg install git
 
 git clone https://github.com/Darkboy-creater/PHISINTG.git
 
-cd PHISINGTG
+cd PHISINTG
 
 ls
 
