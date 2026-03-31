@@ -4,6 +4,7 @@ TERMUX_COMMAND
 
 ![Image](https://github.com/user-attachments/assets/cd9ecb4a-d3ae-4551-8dfd-26a04aa396c9)
 
+termux-setup-storage -y
 
 apt update
 
